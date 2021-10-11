@@ -18,3 +18,6 @@ Big brain.
 
 Python2 is no longer updated but some people still use it for some reason so I like to try make my programs run in both versions.
 
+
+
+### Complete Prototype, lots of random methods that aren't used, this will be fixed at some point... or maybe never. Depends how I'm feeling.
